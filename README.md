@@ -8,20 +8,33 @@ Pour tester ce plugin, j'ai conçu un site wordpress afin d'y installer l'extens
 # Points forts
 - De nombreux outils pour...
 	> réaliser des quizz interactif
+	
 	> réaliser des sliders
+	
 	> réaliser des questionnaires
+	
 	> réaliser des mini-jeux
+	
 	> présenter des informations/images
+	
 	> réaliser des graphiques
+	
 	> enregistrer des sons
+	
 	> récupérer des feeds twitter
 
 - Facile à intégrer, il est compatible/disponible sur
+
 	> Drupal 7
+	
 	> Drupal 8
+	
 	> Wordpress
+	
 	> Moodle
+	
 	> avec un canvas
+	
 - L'extension wordpress est très simple à utiliser, simple à comprendre.
 - Le plugin est totalement responsive.
 - Il y a un module Drupal pour traduire le plugin (Translating content)
